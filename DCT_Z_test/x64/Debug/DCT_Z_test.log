@@ -1,0 +1,24 @@
+﻿  test.cpp
+z:\workspace\vsworkspace\dct_z_test\dct_z_test\test.cpp(1): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+z:\workspace\vsworkspace\dct_z_test\dct_z_test\test.cpp(2): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+z:\software\opencv\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+z:\software\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+z:\software\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+z:\software\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+z:\workspace\vsworkspace\dct_z_test\dct_z_test\test.cpp(4): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+z:\workspace\vsworkspace\dct_z_test\dct_z_test\test.h(4): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+z:\workspace\vsworkspace\dct_z_test\dct_z_test\test.h(10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+z:\workspace\vsworkspace\dct_z_test\dct_z_test\test.cpp(31): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+z:\workspace\vsworkspace\dct_z_test\dct_z_test\test.cpp(154): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+z:\workspace\vsworkspace\dct_z_test\dct_z_test\test.cpp(177): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+z:\workspace\vsworkspace\dct_z_test\dct_z_test\test.cpp(180): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+z:\workspace\vsworkspace\dct_z_test\dct_z_test\test.cpp(191): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+z:\workspace\vsworkspace\dct_z_test\dct_z_test\test.cpp(192): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+z:\workspace\vsworkspace\dct_z_test\dct_z_test\test.cpp(269): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+z:\workspace\vsworkspace\dct_z_test\dct_z_test\test.cpp(272): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+z:\workspace\vsworkspace\dct_z_test\dct_z_test\test.cpp(283): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+z:\workspace\vsworkspace\dct_z_test\dct_z_test\test.cpp(284): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+z:\workspace\vsworkspace\dct_z_test\dct_z_test\test.cpp(335): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+z:\workspace\vsworkspace\dct_z_test\dct_z_test\test.cpp(354): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  DCT_Z_test.vcxproj -> Z:\workspace\VSworkSpace\DCT_Z_test\x64\Debug\DCT_Z_test.exe
+  DCT_Z_test.vcxproj -> Z:\workspace\VSworkSpace\DCT_Z_test\x64\Debug\DCT_Z_test.pdb (Full PDB)
